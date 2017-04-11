@@ -8,7 +8,7 @@ All datasets are released under <a href="https://creativecommons.org/licenses/by
 
 This repo is for a selection of datasets that Washingtonian used for stories and maps. The datasets will be updated regularly when new listing/ranking/items come up. 
 
-You are welcome to create your own stories or visualizations with these datasets. If you do find it useful or you would like to update the dataset, <a href="mailto:digitalproducts@washingtonian.com"send us an email</a>. 
+You are welcome to create your own stories or visualizations with these datasets. If you do find it useful or you would like to update the dataset, <a href="mailto:digitalproducts@washingtonian.com">send us an email</a>. 
 
 ### #Stories
 <table>
