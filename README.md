@@ -22,7 +22,7 @@ You are welcome to create your own stories or visualizations with these datasets
 <tbody>
 <tr>
 <td>Feb 15, 2017</td>
-<td><a href="http://bit.ly/2orLX74">This Map Shows How DC’s Very Best Restaurants Have Changed Over 49 Years</a></td>
+<td><a href="http://bit.ly/2pr58yh">This Map Shows How DC’s Very Best Restaurants Have Changed Over 49 Years</a></td>
 <td><a href="http://bit.ly/2p4WtlB">very-best-restaurants</a></td>
 </tr>
 </tbody></table>
