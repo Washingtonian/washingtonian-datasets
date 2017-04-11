@@ -2,7 +2,7 @@
 
 ### #License
 
-[This data is published under an <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license</a>]
+All datasets are released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons</a> license.
 
 ### #About
 
