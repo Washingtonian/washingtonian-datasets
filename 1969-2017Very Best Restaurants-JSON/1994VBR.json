@@ -1,0 +1,572 @@
+[
+  {
+    "Name": "Aditi",
+    "Address": "3299 M St., NW, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "Andalucia",
+    "Address": "12300 Wilkins Ave., Rockville, MD",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Name": "Austin Grill",
+    "Address": "2404 Wisconsin Ave., NW, DC",
+    "Cuisine": "Tex-Mex"
+  },
+  {
+    "Name": "South Austin Grill",
+    "Address": "801 King St., Alexandria, VA",
+    "Cuisine": "Tex-Mex"
+  },
+  {
+    "Name": "Bacchus",
+    "Address": "1827 Jefferson Pl., NW, DC",
+    "Cuisine": "Lebanese"
+  },
+  {
+    "Name": "Bacchus-Bethesda",
+    "Address": "7945 Norfolk Ave., Bethesda, MD",
+    "Cuisine": "Lebanese"
+  },
+  {
+    "Name": "Bice",
+    "Address": "601 Penssylvania Ave., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Bistro Bistro",
+    "Address": "4021 S. 28th St., Arlington, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Bistro Francais",
+    "Address": "3128 M St., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Blue Point Grill",
+    "Address": "600 Franklin St, Alexandria, VA",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "Bombay Bistro",
+    "Address": "98 W. Montgomery Avenue, Rockville, MD",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "Bombay Palace",
+    "Address": "2020 K ST NW, Washington, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "Cafe Atlantico",
+    "Address": "1819 Columbia Rd., NW, Washington DC",
+    "Cuisine": "Caribbean"
+  },
+  {
+    "Name": "Cafe Bethesda",
+    "Address": "5207 Wilson Lane, Bethesda, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "Cafe La Cote d'Or",
+    "Address": "6876 Lee Hwy, Arlington, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Cafe Milano",
+    "Address": "3251 Prospect St., NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Cafe Normandie",
+    "Address": "185 Main St., Annapolis, MD",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Carlyle Grand Cafe",
+    "Address": "4000 S 28TH ST, Arlington, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "China Inn",
+    "Address": "631 H ST NW, Washington DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Citronelle",
+    "Address": "3000 M ST NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "Crisfield",
+    "Address": "8012 Georgia Ave., Chevy Chase, MD",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "Crisfield at Lee Plaza",
+    "Address": "8606 Colesville Rd., Silver Spring, MD",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "Donna Adele",
+    "Address": "2100 P St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Duangrat's",
+    "Address": "5878 Leesburg Pike, Falls Church, VA",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Dusit",
+    "Address": "2404 University Blvd W, Silver Spring, MD",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "El Patio",
+    "Address": "1120 20th ST NW, Washington DC",
+    "Cuisine": "Central American"
+  },
+  {
+    "Name": "Fortune",
+    "Address": "5900 Leesburg Pike, Falls Church, VA",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Four & Twenty Blackbirds",
+    "Address": "644 Zachary Taylor Hwy, Flint Hill, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "Galileo",
+    "Address": "1110 21st ST NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Georgia Brown's",
+    "Address": "950 15th ST NW, Washington DC",
+    "Cuisine": "New Southern"
+  },
+  {
+    "Name": "Gerard's Place",
+    "Address": "915 15th ST NW, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Good Fortune",
+    "Address": "2646 University Blvd. West, Silver Spring, MD",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Grill From Ipanema",
+    "Address": "1858 Columbia Rd., NW, DC",
+    "Cuisine": "Brazilian"
+  },
+  {
+    "Name": "Haandi",
+    "Address": "1222 W. Broad St., Falls Church, VA",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "Haandi-2",
+    "Address": "4904 Fairmont Avenue, Bethesda, MD",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "Hunan Chinatown",
+    "Address": "624 H St., NW, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Il Pizzico",
+    "Address": "15209 Frederick Road, Rockville, MD",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Il Radicchio",
+    "Address": "1509 17th ST NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "I Matti",
+    "Address": "2436 18th St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Inn at Little Washington",
+    "Address": "309 Middle St, Washington, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "i Ricchi",
+    "Address": "1220 19th St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Jaleo",
+    "Address": "480 7th ST NW, Washington DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Name": "Jean-Louis",
+    "Address": "2650 Virginia Ave., NW, Washington DC",
+    "Cuisine": "Modern French"
+  },
+  {
+    "Name": "Kabul West",
+    "Address": "4871 Cordell Ave., Bethesda, MD",
+    "Cuisine": "Afghan"
+  },
+  {
+    "Name": "Kinkead's",
+    "Address": "2000 Pennsylvania Ave. NW, Washington DC",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "La Bergerie",
+    "Address": "218 N. Lee St., Alexandria, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "La Chaumiere",
+    "Address": "2813 M St., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "La Colline",
+    "Address": "400 North Capitol St., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "La Ferme",
+    "Address": "7101 Brookville Rd., Chevy Chase, MD",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "La Miche",
+    "Address": "7905 Norfolk Ave., Bethesda, MD",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Las Pampas",
+    "Address": "3291 M St., NW, DC",
+    "Cuisine": "Argentine"
+  },
+  {
+    "Name": "L'Auberge Chez Francois",
+    "Address": "332 Springvale Rd., Great Falls, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Lavandou",
+    "Address": "3321 Connecticut Ave., NW, DC",
+    "Cuisine": "Provencal"
+  },
+  {
+    "Name": "Lebanese Taverna",
+    "Address": "2641 Connecticut Ave., NW, DC",
+    "Cuisine": "Lebanese"
+  },
+  {
+    "Name": "Le Caprice",
+    "Address": "2348 Wisconsin Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Gaulois",
+    "Address": "1106 King St, Alexandria, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Lion d'Or",
+    "Address": "1150 Connecticut Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Refuge",
+    "Address": "127 N. Washington St., Alexandria, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Vieux Logis",
+    "Address": "7925 Old Georgetown Rd., Bethesda, MD",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Luigino",
+    "Address": "1100 New York Ave. NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Market Street Bar & Grill",
+    "Address": "1800 Presidents St, Reston, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "Matuba",
+    "Address": "2915 Columbia Pike, Arlington, VA",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Matuba-Bethesda",
+    "Address": "4918 Cordell Avenue, Bethesda, MD",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Morton's of Chicago",
+    "Address": "3251 Prospect St., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Morton's-Tysons",
+    "Address": "8075 Leesburg Pike, Tysons, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Mykonos",
+    "Address": "1910 K St., NW, DC",
+    "Cuisine": "Greek"
+  },
+  {
+    "Name": "Nizam's",
+    "Address": "523 Maple Ave W, Vienna, VA",
+    "Cuisine": "Turkish"
+  },
+  {
+    "Name": "Obelisk",
+    "Address": "2029 P St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Old Angler's Inn",
+    "Address": "10801 MacArthur Blvd., Potomac, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "Old Europe",
+    "Address": "2434 Wisconsin Ave., NW, DC",
+    "Cuisine": "German"
+  },
+  {
+    "Name": "Palladin by Jean-Louis",
+    "Address": "2650 Virginia Ave., NW, Washington DC",
+    "Cuisine": "Bistro"
+  },
+  {
+    "Name": "Peking Gourmet Inn",
+    "Address": "6029-33 Leesburg Pike, Falls Church, VA",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Persepolis",
+    "Address": "7130 Wisconsin Ave., Bethesda, MD",
+    "Cuisine": "Persian"
+  },
+  {
+    "Name": "Pizzeria Paradiso",
+    "Address": "2029 P Street, Northwest, DC",
+    "Cuisine": "Pizza"
+  },
+  {
+    "Name": "Ploy",
+    "Address": "2218 Wisconsin Ave., NW, DC",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Prime Rib",
+    "Address": "2020 K St., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Queen Bee",
+    "Address": "3181 Wilson Blvd., Arlington, VA",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Name": "Red Hot & Blue",
+    "Address": "1600 Wilson Blvd., Arlington, VA",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "Red Hot & Blue-3",
+    "Address": "8637 Sudley Rd., Manassas, VA",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "Red Hot & Blue-4",
+    "Address": "200 Old Mill Bottom Rd., Annapolis, MD",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "Red Hot & Blue-2",
+    "Address": "677 Main St., Laurel, MD",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "Red Hot & Blue-5",
+    "Address": "16811 Crabbs Branch Way, Derwood, MD",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "Red Sage",
+    "Address": "605 14th ST NW, Washington DC",
+    "Cuisine": "Southwestern"
+  },
+  {
+    "Name": "Rio Grande Cafe",
+    "Address": "4919 Fairmont Ave., Bethesda, MD",
+    "Cuisine": "Tex-Mex"
+  },
+  {
+    "Name": "Rio Grande Cafe-2",
+    "Address": "4301 Fairfax Dr, Arlington, VA",
+    "Cuisine": "Tex-Mex"
+  },
+  {
+    "Name": "Rio Grande Cafe-3",
+    "Address": "1827 Library St., Reston Town Center, Reston",
+    "Cuisine": "Tex-Mex"
+  },
+  {
+    "Name": "RT's",
+    "Address": "3804 Mount Vernon Ave., Alexandria, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Sabang",
+    "Address": "2504 Ennalls Ave., Wheaton, MD",
+    "Cuisine": "Indonesian"
+  },
+  {
+    "Name": "Saigon Gourmet",
+    "Address": "2635 Connecticut Ave., NW, DC",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Name": "Sakura Palace",
+    "Address": "7926 Georgia Ave., Silver Spring, MD",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Sam & Harry's",
+    "Address": "1200 19th St., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Sam Woo",
+    "Address": "1054 Rockville Pike, Rockville, MD",
+    "Cuisine": "Korean"
+  },
+  {
+    "Name": "Seven Seas",
+    "Address": "1776 E Jefferson St., Rockville, MD",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": 1789,
+    "Address": "1226 36th St., NW, DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "Star of Siam",
+    "Address": "1136 19th St., NW, DC",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Star of Siam-2",
+    "Address": "2446 18th St., NW, DC",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Star of Siam-3",
+    "Address": "1735 N Lynn St, Arlington, VA",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Sunny Garden",
+    "Address": "1302 E. Gude Dr., Rockville, MD",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Sushi-Ko",
+    "Address": "2309 Wiscnsin Ave., NW, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Taberna del Alabardero",
+    "Address": "1776 I St., NW, DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Name": "Tachibana",
+    "Address": "4050 Lee Hwy., Arlington, VA",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Tako Grill",
+    "Address": "7756 Wisconsin Ave., Bethesda, MD",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Taste of Saigon",
+    "Address": "410 Hungerford Dr., Rockville, MD",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Name": "Terramar",
+    "Address": "7800 Wisconsin Ave., Bethesda",
+    "Cuisine": "Latin"
+  },
+  {
+    "Name": "Terrazza",
+    "Address": "710 King St., Alexandria, VA",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Tony Cheng's Mogolian Restaurant",
+    "Address": "619 H St., NW, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Toojay's",
+    "Address": "4620 Wisconsin Ave., NW, DC",
+    "Cuisine": "Deli"
+  },
+  {
+    "Name": "Union Street Public House",
+    "Address": "121 South Union Street, Alexandria, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Unkai",
+    "Address": "1250 24th St., NW, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Vidalia",
+    "Address": "1990 M ST NW, Washington DC",
+    "Cuisine": "New Southern"
+  },
+  {
+    "Name": "Vincenzo",
+    "Address": "1606 20th St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Woo Lae Oak",
+    "Address": "1500 S. Joyce St., Arlington, VA",
+    "Cuisine": "Korean"
+  },
+  {
+    "Name": "Wurzburg Haus",
+    "Address": "7236 Muncaster Mill Rd., Rockville, MD",
+    "Cuisine": "German"
+  },
+  {
+    "Name": "Zed's Ethiopian Cuisine",
+    "Address": "3318 M St., NW, DC",
+    "Cuisine": "Ethiopian"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "Name": "L'Auberge Chez Francois",
+    "Address": "332 Springvale Road, Great Falls",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "A.V. Ristorante",
+    "Address": "607 New York Avenue, NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Bacchus",
+    "Address": "1827 Jefferson PL., NW, DC",
+    "Cuisine": "Middle Eastern"
+  },
+  {
+    "Name": "Bamiyan",
+    "Address": "3220 M St., NW, DC",
+    "Cuisine": "Afghan"
+  },
+  {
+    "Name": "Bamiyan II",
+    "Address": "300 King St., Alexandria, VA",
+    "Cuisine": "Afghan"
+  },
+  {
+    "Name": "Bangkok Gourmet",
+    "Address": "523 S. 23rd St., Arlington, VA",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "La Bergerie",
+    "Address": "218 North Lee Street, Alexandria, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Big Wong",
+    "Address": "610 H Street, N.W. Washington, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Bombay Palace",
+    "Address": "1835 K St., NW, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "Cantina d'Italia",
+    "Address": "1214 18th Street, NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "El Caribe",
+    "Address": "1828 Columbia Rd., NW, DC",
+    "Cuisine": "Latin American"
+  },
+  {
+    "Name": "El Caribe-Georgetown",
+    "Address": "3288 M St., NW, DC",
+    "Cuisine": "Latin American"
+  },
+  {
+    "Name": "La Casita of Capitol Hill",
+    "Address": "723 8th Street, Southeast, DC",
+    "Cuisine": "Mexican"
+  },
+  {
+    "Name": "La Chaumiere",
+    "Address": "2813 M Street, Northwest, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "China Coral",
+    "Address": "6900 Wisconsin Ave., Bethesda, MD",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "China Inn",
+    "Address": "631 H St., NW, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "La Colline",
+    "Address": "400 N. Capito St., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Crisfield",
+    "Address": "8012 Georgia Ave., Silver Spring, MD",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "Enriqueta's",
+    "Address": "2811 M St., NW, Washington, DC",
+    "Cuisine": "Mexican"
+  },
+  {
+    "Name": "Galileo",
+    "Address": "2014 P St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Le Gaulois",
+    "Address": "2133 Pennsylvania Avenue, NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "House of Chinese Gourmet",
+    "Address": "1485 Rockville Ok., Rockville, MD",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Hunan Chinatown",
+    "Address": "624 H St., NW, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Japan Inn",
+    "Address": "1715 Wisconsin Ave., NW, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Katmandu",
+    "Address": "1800 Connecticut Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Lion d'Or",
+    "Address": "1150 Connecticut Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Madurai",
+    "Address": "3318 M St., NW, DC",
+    "Cuisine": "Vegetarian"
+  },
+  {
+    "Name": "Mei Krupin's",
+    "Address": "1120 Connecticut Ave., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Misty Harbor",
+    "Address": "1776 East Jefferson Street, Rockville, MD",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "Morton's of Chicago",
+    "Address": "3251 Prospect St., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "New Orleans Emporium",
+    "Address": "2477 18th St., NW, DC",
+    "Cuisine": "Cajun"
+  },
+  {
+    "Name": "Nicholas",
+    "Address": "1127 Connecticut Ave., NW, DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Name": "Nizam's",
+    "Address": "523 Maple Ave. W., Vienna, VA",
+    "Cuisine": "Turkish"
+  },
+  {
+    "Name": "O'Brien's Pit Barbecue",
+    "Address": "1314 E. Gude Dr., Rockville, MD",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "O'Brien's-Bethesda",
+    "Address": "7305 Waverly St., Bethesda, MD",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "O'Brien's-Springfield",
+    "Address": "6820 Commerce St., Sprinfield, VA",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "Old Ebbitt Grill",
+    "Address": "675 15th St., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Old Europe",
+    "Address": "2434 Wisconsin Avenue, Northwest, DC",
+    "Cuisine": "German"
+  },
+  {
+    "Name": "Omega",
+    "Address": "1858 Columbia Road, Northwest, DC",
+    "Cuisine": "Latin American"
+  },
+  {
+    "Name": "Las Pampas",
+    "Address": "3291 M St, NW, DC",
+    "Cuisine": "Argentine"
+  },
+  {
+    "Name": "Le Pavillon",
+    "Address": "1050 Connecticut Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Prime Rib",
+    "Address": "2020 K Street, Northwest, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Red Sea",
+    "Address": "2463 18th St., NW, DC",
+    "Cuisine": "Ethipian"
+  },
+  {
+    "Name": "Sakura Palace",
+    "Address": "7926 Georgia Ave., Silver Spring, MD",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Sushi-Ko",
+    "Address": "2309 Wisconsin Ave., NW, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Szechuan",
+    "Address": "615 I St., NW, Washington, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Tandoor-Georgetown",
+    "Address": "3316 M St., NW, Washington, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "Thai Taste",
+    "Address": "2606 Connecticut Avenue, Northwest, Washington, DC",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Vietnam-Georgetown",
+    "Address": "2934 M St., NW, Washington, DC",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Name": "Vincenzo",
+    "Address": "1606 20th St., NW, Washington, DC",
+    "Cuisine": "Italian"
+  }
+]

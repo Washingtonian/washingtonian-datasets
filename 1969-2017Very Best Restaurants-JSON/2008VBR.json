@@ -1,0 +1,502 @@
+[
+  {
+    "Restaurant": "Amici Miei",
+    "Address": "1093 Seven Locks Rd., Rockville, MD",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Bangkok 54",
+    "Address": "2919 Columbia Pike, Arlington, VA",
+    "Cuisine": "Thai"
+  },
+  {
+    "Restaurant": "Bastille",
+    "Address": "1201 N Royal St, Alexandria, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Bebo Trattoria",
+    "Address": "2250-B Crystal Dr., Arlington, VA",
+    "Cuisine": "Italian/pizza"
+  },
+  {
+    "Restaurant": "Bistro Bis",
+    "Address": "15 E St., NW, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Black Market",
+    "Address": "4600 Waverly Ave, Garrett Park, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "BlackSalt",
+    "Address": "4883 MacArthur Blvd., NW, Washington DC",
+    "Cuisine": "Modern American/seafood"
+  },
+  {
+    "Restaurant": "Black’s Bar & Kitchen",
+    "Address": "7750 Woodmont Ave, Bethesda, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "BLT Steak",
+    "Address": "1625 I St., NW, Washington DC",
+    "Cuisine": "Modern American/steak"
+  },
+  {
+    "Restaurant": "Blue Duck Tavern",
+    "Address": "1201 24th St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Bob’s Noodle 66",
+    "Address": "305 N. Washington St., Rockville, MD",
+    "Cuisine": "Taiwanese"
+  },
+  {
+    "Restaurant": "Bombay Indian Restaurant",
+    "Address": "11229 New Hampshire Ave.,Silver Spring, MD",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Brasserie Beck",
+    "Address": "1101 K St., NW, Washington DC",
+    "Cuisine": "Belgian"
+  },
+  {
+    "Restaurant": "Buck’s Fishing & Camping",
+    "Address": "5031 Connecticut Ave., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Butterfield 9",
+    "Address": "600 14th St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Café Atlántico",
+    "Address": "405 Eighth St., NW, Washington DC",
+    "Cuisine": "Nuevo Latino"
+  },
+  {
+    "Restaurant": "Café du Parc",
+    "Address": "1401 Pennsylvania Ave., NW, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Cashion’s Eat Place",
+    "Address": "1819 Columbia Rd., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Cava",
+    "Address": "9713 Traville Gateway Dr., Rockville, MD",
+    "Cuisine": "Greek"
+  },
+  {
+    "Restaurant": "Central Michel Richard",
+    "Address": "1001 Pennsylvania Ave., NW, Washington DC",
+    "Cuisine": "American/French"
+  },
+  {
+    "Restaurant": "Charlie Palmer Steak",
+    "Address": "101 Constitution Ave., NW, Washington DC",
+    "Cuisine": "Modern American/steak"
+  },
+  {
+    "Restaurant": "Circle Bistro",
+    "Address": "1 Washington Cir., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Citronelle",
+    "Address": "3000 M St., NW, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "CityZen",
+    "Address": "1330 Maryland Ave SW, Washington, DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Colorado Kitchen",
+    "Address": "5515 Colorado Ave., NW, Washington DC",
+    "Cuisine": "American/Southern"
+  },
+  {
+    "Restaurant": "Corduroy",
+    "Address": "1201 K St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Cynthia’s",
+    "Address": "552 Governor Ritchie Hwy, Severna Park, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "David Craig Bethesda",
+    "Address": "4924 St. Elmo Ave., Bethesda, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "DC Coast",
+    "Address": "1401 K St., NW, Washington DC",
+    "Cuisine": "Modern American/seafood"
+  },
+  {
+    "Restaurant": "Equinox",
+    "Address": "818 Connecticut Ave., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Etete",
+    "Address": "1942 Ninth St., NW, Washington DC",
+    "Cuisine": "Ethiopian"
+  },
+  {
+    "Restaurant": "Farrah Olivia",
+    "Address": "600 Franklin St., Alexandria, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Faryab",
+    "Address": "4917 Cordell Ave., Bethesda, MD",
+    "Cuisine": "Afghan"
+  },
+  {
+    "Restaurant": "Foti’s",
+    "Address": "219 E Davis St, Culpeper, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Grapeseed Bistro",
+    "Address": "4865 Cordell Ave., Bethesda, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Hank’s Oyster Bar",
+    "Address": "1624 Q St., NW, Washington DC",
+    "Cuisine": "American/seafood"
+  },
+  {
+    "Restaurant": "Heritage India",
+    "Address": "2400 Wisconsin Ave., NW, Washington DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Hollywood East Cafe on the Boulevard",
+    "Address": "2621 University Blvd W, Silver Spring, MD",
+    "Cuisine": "Chinese/dim sum"
+  },
+  {
+    "Restaurant": "Hook",
+    "Address": "3241 M St., NW, Washington DC",
+    "Cuisine": "Modern American/Seafood"
+  },
+  {
+    "Restaurant": "Huong Viet",
+    "Address": "6785 Wilson Blvd., Falls Church, VA",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Restaurant": "Indique Heights",
+    "Address": "2 Wisconsin Cir, Chevy Chase, MD",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Inn at Little Washington",
+    "Address": "309 Middle St., Washington, Va.",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Jackie’s Restaurant",
+    "Address": "8081 Georgia Ave., Silver Spring, MD",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Jaleo",
+    "Address": "480 Seventh St., NW, Washington DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": "Johnny’s Half Shell",
+    "Address": "400 N. Capitol St., NW, Washington DC",
+    "Cuisine": "Seafood/Southern"
+  },
+  {
+    "Restaurant": "Kaz Sushi Bistro",
+    "Address": "1915 I St., NW, Washington DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Kinkead’s",
+    "Address": "2000 Pennsylvania Ave., NW, Washington DC",
+    "Cuisine": "Modern American/seafood"
+  },
+  {
+    "Restaurant": "Komi",
+    "Address": "1509 17th St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Kotobuki",
+    "Address": "4822 MacArthur Blvd., NW, Washington DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "L’Auberge Chez François",
+    "Address": "332 Springvale Rd., Great Falls, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Leopold’s Kafe & Konditorei",
+    "Address": "3315 M St., NW, Washington DC",
+    "Cuisine": "Modern American/Austrian"
+  },
+  {
+    "Restaurant": "Le Paradou",
+    "Address": "678 Indiana Ave., NW, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Lewnes’ Steakhouse",
+    "Address": "401 Fourth St, Annapolis, MD",
+    "Cuisine": "Steak"
+  },
+  {
+    "Restaurant": "The Liberty Tavern",
+    "Address": "3195 Wilson Blvd., Arlington, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "The Majestic",
+    "Address": "911 King St, Alexandria, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Makoto",
+    "Address": "4822 MacArthur Blvd., NW, Washington DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Malaysia Kopitiam",
+    "Address": "1827 M St., NW, Washington DC",
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Restaurant": "Mannequin Pis",
+    "Address": "18064 Georgia Ave, Olney, MD",
+    "Cuisine": "Belgian"
+  },
+  {
+    "Restaurant": "Marcel’s",
+    "Address": "2401 Pennsylvania Ave., NW, Washington DC",
+    "Cuisine": "French/Belgian"
+  },
+  {
+    "Restaurant": "Mendocino Grille and Wine Bar",
+    "Address": "2917 M St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Minh’s",
+    "Address": "2500 Wilson Blvd., Arlington, VA",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Restaurant": "Minibar",
+    "Address": "405 Eighth St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Montmartre",
+    "Address": "327 Seventh St., SE, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Montsouris",
+    "Address": "2002 P St., NW, Washington DC",
+    "Cuisine": "French/steak"
+  },
+  {
+    "Restaurant": "Mourayo",
+    "Address": "1732 Connecticut Ave., NW, Washington DC",
+    "Cuisine": "Greek"
+  },
+  {
+    "Restaurant": "New Heights",
+    "Address": "2317 Calvert St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Nicaro",
+    "Address": "8229 Georgia Ave., Silver Spring, MD",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Notti Bianche",
+    "Address": "824 New Hampshire Ave., NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Obelisk",
+    "Address": "2029 P St., NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Oval Room",
+    "Address": "800 Connecticut Ave., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Oyamel",
+    "Address": "401 Seventh St., NW, Washington DC",
+    "Cuisine": "Mexican"
+  },
+  {
+    "Restaurant": "Palena",
+    "Address": "3529 Connecticut Ave., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Passage to India",
+    "Address": "4931 Cordell Ave., Bethesda, MD",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Poste Moderne Brasserie",
+    "Address": "555 Eighth St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Prime Rib",
+    "Address": "2020 K St., NW, Washington DC",
+    "Cuisine": "Steak"
+  },
+  {
+    "Restaurant": "Proof",
+    "Address": "775 G St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "PS 7’s",
+    "Address": "777 I St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Raku Bethesda",
+    "Address": "7240 Woodmont Ave., Bethesda, MD",
+    "Cuisine": "Pan-Asian"
+  },
+  {
+    "Restaurant": "Rasika",
+    "Address": "633 D St., NW, Washington DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Ray’s the Classics",
+    "Address": "8606 Colesville Rd., Silver Spring, MD",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Ray’s the Steaks",
+    "Address": "1725 Wilson Blvd., Arlington, VA",
+    "Cuisine": "Steak"
+  },
+  {
+    "Restaurant": "Restaurant Eve",
+    "Address": "110 S. Pitt St., Alexandria, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Ristorante Spezie",
+    "Address": "1736 L St., NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Ristorante Tosca",
+    "Address": "1112 F St., NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Rock Creek at Mazza",
+    "Address": "5300 Wisconsin Ave., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "1789 Restaurant",
+    "Address": "1226 36th St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "The Source",
+    "Address": "575 Pennsylvania Ave., NW, Washington DC",
+    "Cuisine": "Modern American/Asian"
+  },
+  {
+    "Restaurant": "Sushi-Ko",
+    "Address": "2309 Wisconsin Ave., NW, Washington DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Tabard Inn",
+    "Address": "1739 N St., NW, Washington DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Taberna del Alabardero",
+    "Address": "1776 I St., NW, Washington DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": "Thai Square",
+    "Address": "3217 Columbia Pike, Arlington, VA",
+    "Cuisine": "Thai"
+  },
+  {
+    "Restaurant": "2941 Restaurant",
+    "Address": "2941 Fairview Park Dr., Falls Church, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "2 Amys",
+    "Address": "3715 Macomb St., NW, Washington DC",
+    "Cuisine": "Italian/pizza"
+  },
+  {
+    "Restaurant": "Vermilion",
+    "Address": "1120 King St., Alexandria, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Vidalia",
+    "Address": "1990 M St., NW, Washington DC",
+    "Cuisine": "Modern American/Southern"
+  },
+  {
+    "Restaurant": "Viet Royale",
+    "Address": "6767 Wilson Blvd., Falls Church, VA",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Restaurant": "Westend Bistro",
+    "Address": "1190 22nd St., NW, Washington DC",
+    "Cuisine": "American/French"
+  },
+  {
+    "Restaurant": "Willow",
+    "Address": "4301 N. Fairfax Dr., Arlington, VA",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Zaytinya",
+    "Address": "701 Ninth St., NW, Washington DC",
+    "Cuisine": "Greek/Lebanese/Turkish"
+  },
+  {
+    "Restaurant": "Zengo",
+    "Address": "781 Seventh St., NW, Washington DC",
+    "Cuisine": "Asian/Latin fusion"
+  }
+]

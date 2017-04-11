@@ -1,0 +1,150 @@
+[
+  {
+    "Name": "Alpine",
+    "Address": "4770 Lee Highway, Arlington, VA"
+  },
+  {
+    "Name": "Carmack's",
+    "Address": "4469 Connecticut Ave., NW, DC"
+  },
+  {
+    "Name": "Cantina d'Italia",
+    "Address": "1214-A 18th St., NW, DC"
+  },
+  {
+    "Name": "Chez Camille",
+    "Address": "1403 L St., NW, DC"
+  },
+  {
+    "Name": "Chez Francois",
+    "Address": "818 Connecticut Ave., NW, DC"
+  },
+  {
+    "Name": "Cote d'Azur",
+    "Address": "1721 Wisconsin Ave., NW, DC"
+  },
+  {
+    "Name": "Country Squire",
+    "Address": "Leesburg Pike & Patrick Henry Dr., Seven Corners. VA"
+  },
+  {
+    "Name": "Don Pedro's Mexican Cantina",
+    "Address": "10th & H St., NW, DC"
+  },
+  {
+    "Name": "El Bodegon",
+    "Address": "1637 R St., NW, DC"
+  },
+  {
+    "Name": "El Tio Pepe Restaurant",
+    "Address": "2809 M St., NW, DC"
+  },
+  {
+    "Name": "Empress Restaurant",
+    "Address": "1018 Vermont Ave., NW, DC"
+  },
+  {
+    "Name": "Evans Farm Inn",
+    "Address": "5743 Chain Bridge Rd., NW, DC"
+  },
+  {
+    "Name": "Flagship",
+    "Address": "951 Maine Ave., SW, DC"
+  },
+  {
+    "Name": "France's",
+    "Address": "1204-30th St., NW, DC"
+  },
+  {
+    "Name": "GIGI",
+    "Address": "3027 M St., NW, DC"
+  },
+  {
+    "Name": "Jacqueline's",
+    "Address": "1921 Pennsylvania Ave., NW, DC"
+  },
+  {
+    "Name": "Jockey Club",
+    "Address": "2100 Massachusetts, Ave., NW, DC"
+  },
+  {
+    "Name": "Knife and Fork",
+    "Address": "1824 M St., NW, DC"
+  },
+  {
+    "Name": "La Chatelaine",
+    "Address": "Connecticut Ave. & Desales St., NW, DC"
+  },
+  {
+    "Name": "La Fonda",
+    "Address": "1659 R St., NW, DC"
+  },
+  {
+    "Name": "Le Bistro",
+    "Address": "1827 M St., NW, DC"
+  },
+  {
+    "Name": "Le Provencal",
+    "Address": "1234 20th St., NW., DC"
+  },
+  {
+    "Name": "Montpelier Restaurant",
+    "Address": "M St NW & 15th St NW, Washington, DC"
+  },
+  {
+    "Name": "Maison des Crepes",
+    "Address": "1305 Wisconsin Ave., NW, DC"
+  },
+  {
+    "Name": "Old Europe",
+    "Address": "2434 Wisconsin Ave., NW, DC"
+  },
+  {
+    "Name": "Paul Young's",
+    "Address": "1120 Connecticut Ave., NW. DC"
+  },
+  {
+    "Name": "Peking Downtown",
+    "Address": "711 13th St., NW, DC"
+  },
+  {
+    "Name": "Peking Uptown",
+    "Address": "5522 Connecticut Ave., NW, DC"
+  },
+  {
+    "Name": "Place Vendome",
+    "Address": "2300 Connecticut Ave., NW, DC"
+  },
+  {
+    "Name": "Pouget's",
+    "Address": "3309 Connecticut Ave., NW, DC"
+  },
+  {
+    "Name": "Rive Gauche",
+    "Address": "3200 M St., NW, DC"
+  },
+  {
+    "Name": "Sans Souci",
+    "Address": "726 17th St., NW, DC"
+  },
+  {
+    "Name": "Swiss Chalet",
+    "Address": "1026 6th St., NW, DC"
+  },
+  {
+    "Name": "Trader Vic's",
+    "Address": "16th & K St., NW, DC"
+  },
+  {
+    "Name": "Trieste",
+    "Address": "2138 Pennsylvania Ave., NW, DC"
+  },
+  {
+    "Name": "Watergate Terrace",
+    "Address": "2650 Virginia Ave., NW, DC"
+  },
+  {
+    "Name": "Yenching Palace",
+    "Address": "3524 Connecticut Ave., NW, DC"
+  }
+]

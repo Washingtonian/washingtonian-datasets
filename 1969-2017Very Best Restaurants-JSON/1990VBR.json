@@ -1,0 +1,252 @@
+[
+  {
+    "Name": "Adirondacks",
+    "Address": "50 Massachusetts Ave., NE, Washington DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Austin Grill",
+    "Address": "2404 Wisconsin Ave., NW, DC",
+    "Cuisine": "Tex-Mex"
+  },
+  {
+    "Name": "Bacchus",
+    "Address": "1827 Jefferson PI., NW, DC",
+    "Cuisine": "Lebanese"
+  },
+  {
+    "Name": "Bacchus-Bethesda",
+    "Address": "7945 Norfolk Ave., Bethesda, MD",
+    "Cuisine": "Lebanese"
+  },
+  {
+    "Name": "Bangkok Gourmet",
+    "Address": "523 S. 23rd St., Arlington, VA",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Bombay Palace",
+    "Address": "1835 K St., NW, Washington DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Name": "China Inn",
+    "Address": "631 H St., NW, Washington DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Crisfield",
+    "Address": "8012 Georgia Ave., Silver Spring, MD",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "Crisfield II",
+    "Address": "8606 Colesville Rd., Silver Spring, MD",
+    "Cuisine": "Seafood"
+  },
+  {
+    "Name": "Dar Es Salam",
+    "Address": "3056 M St., NW, Washington DC",
+    "Cuisine": "Moroccan"
+  },
+  {
+    "Name": "Diamond",
+    "Address": "4000 Wisconsin Ave NW, Washington DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Duangrat's",
+    "Address": "5878 Leesburg Pike, Falls Church, VA",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Enriqueta's-Georgetown",
+    "Address": "2811 M St., NW, Washington DC",
+    "Cuisine": "Mexican"
+  },
+  {
+    "Name": "Fortune",
+    "Address": "5900 Leesburg Pk., Falls Church, VA",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Galileo",
+    "Address": "2014 P St., NW, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Hisago",
+    "Address": "3050 K St., NW, Washington DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Hunan Chinatown",
+    "Address": "624 H ST NW, Washington DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "i Ricchi",
+    "Address": "1220 19th Street, Northwest, Washington DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Japan Inn",
+    "Address": "1715 Wisconsin Ave., NW, Washington DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Jean-Louis",
+    "Address": "2650 Virginia Ave., NW, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "La Chaumiere",
+    "Address": "2813 M St., NW, Washington DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "La Colline",
+    "Address": "400 North Capitol St., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Las Pampas",
+    "Address": "3291 M St., NW, DC",
+    "Cuisine": "Argentine"
+  },
+  {
+    "Name": "L'Auberge Chez Francois",
+    "Address": "332 Springvale Rd., Great Falls, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Caprice",
+    "Address": "2348 Wisconsin Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Gaulois",
+    "Address": "2133 Pennsylvania Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Lion d'Or",
+    "Address": "1150 Connecticut Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Le Pavillon",
+    "Address": "1050 Connecticut Ave., NW, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Name": "Madurai",
+    "Address": "3318 M St., NW, DC",
+    "Cuisine": "Vegetarian"
+  },
+  {
+    "Name": "Meskerem",
+    "Address": "2434 18th St., NW, DC",
+    "Cuisine": "Ethiopian"
+  },
+  {
+    "Name": "Mixtec",
+    "Address": "1792 Columbia Rd., NW, DC",
+    "Cuisine": "Mexican"
+  },
+  {
+    "Name": "Morton's of Chicago",
+    "Address": "3251 Prospect Street, NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Mr. Yung's",
+    "Address": "740 6th St., NW, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Nizam's",
+    "Address": "523 Maple Ave. W., Vienna, VA",
+    "Cuisine": "Turkish"
+  },
+  {
+    "Name": "Obelisk",
+    "Address": "2029 P St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Occidental",
+    "Address": "1475 Pennsylvania Ave., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Occidental Grill",
+    "Address": "1475 Pennsylvania Ave., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Omega",
+    "Address": "1858 Columbia Rd., NW, DC",
+    "Cuisine": "Cuban"
+  },
+  {
+    "Name": "Prime Rib",
+    "Address": "2020 K St., NW, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Queen Bee",
+    "Address": "3181 Wilson Blvd., Arlington, VA",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Name": "Red Hot & Blue",
+    "Address": "1600 Wilson Blvd., Arlington, VA",
+    "Cuisine": "Barbecue"
+  },
+  {
+    "Name": "Rio Grande Cafe",
+    "Address": "4919 Fairmont Ave., Bethesda, MD",
+    "Cuisine": "Tex-Mex"
+  },
+  {
+    "Name": "Star of Siam",
+    "Address": "1136 19th St., NW, DC",
+    "Cuisine": "Thai"
+  },
+  {
+    "Name": "Sushi-Ko",
+    "Address": "2309 Wisconsin Ave. NW, Washington DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Name": "Taberna del Alabardero",
+    "Address": "1776 I St., NW, DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Name": "Tony Cheng's Mongolian Restaurant",
+    "Address": "619 H St., NW, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Name": "Twenty-One Federal",
+    "Address": "1736 L ST NW, Washington DC",
+    "Cuisine": "American"
+  },
+  {
+    "Name": "Vietnam Taste-Pho 79",
+    "Address": "2007 Veirs Mill Rd., Rockville, MD",
+    "Cuisine": "Vietnamese"
+  },
+  {
+    "Name": "Vincenzo",
+    "Address": "1606 20th St., NW, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Name": "Zed's Ethiopian Cuisine",
+    "Address": "3318 M St., NW, DC",
+    "Cuisine": "Ethiopian"
+  }
+]

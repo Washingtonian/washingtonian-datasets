@@ -1,0 +1,532 @@
+[
+  {
+    "Restaurant": "Afghan Bistro",
+    "Address": "8081 Alban Rd, Springfield, VA",
+    "Cuisine": "Afghan"
+  },
+  {
+    "Restaurant": "All-Purpose",
+    "Address": "1250 Ninth St., NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Ananda",
+    "Address": "7421 Maple Lawn Blvd., Fulton, MD",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Anxo Cidery & Pintxos Bar",
+    "Address": "300 Florida Ave., NW, Washington, DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": "Ardeo & Bardeo",
+    "Address": "3311 Connecticut Ave., NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "The Ashby Inn & Restaurant",
+    "Address": "692 Federal St., Paris, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Baan Thai",
+    "Address": "1326 14th St NW, Washington, DC",
+    "Cuisine": "Thai"
+  },
+  {
+    "Restaurant": "Bad Saint",
+    "Address": "3226 11th St., NW, Washington, DC",
+    "Cuisine": "Filipino"
+  },
+  {
+    "Restaurant": "Bangkok Golden/Thip Khao",
+    "Address": "6395 Seven Corners Center, Falls Church, VA",
+    "Cuisine": "Laotian"
+  },
+  {
+    "Restaurant": "Bangkok Golden/Thip Khao-2",
+    "Address": "3462 14th St NW, Washington, DC",
+    "Cuisine": "Laotian"
+  },
+  {
+    "Restaurant": "Bantam King",
+    "Address": "501 G St., NW, Washington, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Bibiana",
+    "Address": "1100 New York Ave., NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Bindaas",
+    "Address": "3309 Connecticut Ave., NW, Washington, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Bistro Bis",
+    "Address": "Hotel George, 15 E St. NW, Washington, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Black Market Bistro",
+    "Address": "4600 Waverly Ave., Garrett Park, MD",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "BlackSalt",
+    "Address": "4883 MacArthur Blvd., NW, Washington, DC",
+    "Cuisine": "American/seafood"
+  },
+  {
+    "Restaurant": "Blue Duck Tavern",
+    "Address": "Park Hyatt, 1201 24th St. NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "The Bombay Club",
+    "Address": "815 Connecticut Ave., NW, Washington, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Casa Luca",
+    "Address": "1099 New York Ave., NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Central Michel Richard",
+    "Address": "1001 Pennsylvania Ave., NW, Washington, DC",
+    "Cuisine": "American/French"
+  },
+  {
+    "Restaurant": "Centrolina",
+    "Address": "974 Palmer Alley, NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Chez Billy Sud",
+    "Address": "1039 31st St., NW, Washington, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "China Chilcano",
+    "Address": "418 Seventh St., NW, Washington, DC",
+    "Cuisine": "Peruvian"
+  },
+  {
+    "Restaurant": "Clarity",
+    "Address": "442 Maple Ave. E., Vienna, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Compass Rose",
+    "Address": "1346 T St., NW, Washington, DC",
+    "Cuisine": "International"
+  },
+  {
+    "Restaurant": "Consoci",
+    "Address": "465 K St., NW, Washington, DC",
+    "Cuisine": "International/seafood"
+  },
+  {
+    "Restaurant": "Convivial",
+    "Address": "801 O St., NW, Washington, DC",
+    "Cuisine": "American/French"
+  },
+  {
+    "Restaurant": "The Dabney",
+    "Address": "122 Blagden Alley, NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Daikaya",
+    "Address": "705 Sixth St., NW, Washington, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "DBGB Kitchen and Bar",
+    "Address": "931 H St., NW, Washington, DC",
+    "Cuisine": "American/French"
+  },
+  {
+    "Restaurant": "Del Campo",
+    "Address": "777 I St., NW, Washington, DC",
+    "Cuisine": "South American/steak"
+  },
+  {
+    "Restaurant": "EatBar",
+    "Address": "415 Eighth St., SE, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Estadio",
+    "Address": "1520 14th St., NW, Washington, DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": "Etto",
+    "Address": "1541 14th St., NW, Washington, DC",
+    "Cuisine": "Italian/Pizza"
+  },
+  {
+    "Restaurant": "Field & Main",
+    "Address": "8369 W. Main St., Marshall, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Fiola",
+    "Address": "601 Pennsylvania Ave., NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Fiola Mare",
+    "Address": "3050 K St., NW, Washington, DC",
+    "Cuisine": "Italian/seafood"
+  },
+  {
+    "Restaurant": "Garrison",
+    "Address": "524 Eighth St., SE, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "G by Mike Isabella",
+    "Address": "2201 14th St., NW, Washington, DC",
+    "Cuisine": "Italian/sandwiches"
+  },
+  {
+    "Restaurant": "Ghibellina",
+    "Address": "1610 14th St., NW, Washington, DC",
+    "Cuisine": "Italian/pizza"
+  },
+  {
+    "Restaurant": "Graffiato",
+    "Address": "707 Sixth St., NW, Washington, DC",
+    "Cuisine": "Italian/pizza"
+  },
+  {
+    "Restaurant": "Green Pig Bistro",
+    "Address": "1025 N. Fillmore St., Arlington, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Hank’s Pasta Bar",
+    "Address": "600 Montgomery St., Alexandria, VA",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Hazel",
+    "Address": "808 V St., NW, Washington, DC",
+    "Cuisine": "International"
+  },
+  {
+    "Restaurant": "Himitsu",
+    "Address": "828 Upshur St., NW, Washington, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Inferno Pizzeria Napoletana",
+    "Address": "12207 Darnestown Rd., Darnestown, MD",
+    "Cuisine": "Italian/Pizza"
+  },
+  {
+    "Restaurant": "The Inn at Little Washington",
+    "Address": "309 Middle St., Washington, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Iron Gate",
+    "Address": "1734 N St., NW, Washington, DC",
+    "Cuisine": "Mediterranean"
+  },
+  {
+    "Restaurant": "Izakaya Seki",
+    "Address": "1117 V St., NW, Washington, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Jaleo",
+    "Address": "480 7th St NW, Washington, DC",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": "Jaleo-3",
+    "Address": "2250 Crystal Dr, Arlington, VA",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": "Jaleo-2",
+    "Address": "7271 Woodmont Ave, Bethesda, MD",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": "Johnny’s Half Shell",
+    "Address": "1819 Columbia Rd., NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Kapnos/Taverna/Kouzina",
+    "Address": "4000 Wilson Blvd, Arlington, VA",
+    "Cuisine": "Greek"
+  },
+  {
+    "Restaurant": "Kapnos/Taverna/Kouzina-2",
+    "Address": "4900 Hampden Ln, Bethesda, MD",
+    "Cuisine": "Greek"
+  },
+  {
+    "Restaurant": "Kapnos/Taverna/Kouzina-3",
+    "Address": "2201 14th St NW, Washington, DC",
+    "Cuisine": "Greek"
+  },
+  {
+    "Restaurant": "Kinship",
+    "Address": "1015 Seventh St., NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Kogiya",
+    "Address": "4220-A Annandale Rd., Annandale, VA",
+    "Cuisine": "Korean"
+  },
+  {
+    "Restaurant": "Komi",
+    "Address": "1509 17th St., NW, Washington, DC",
+    "Cuisine": "Mediterranean"
+  },
+  {
+    "Restaurant": "Kyirisan",
+    "Address": "1924 Eighth St., NW, Washington, DC",
+    "Cuisine": "Chinese/French"
+  },
+  {
+    "Restaurant": "La Limeña",
+    "Address": "765-B Rockville Pike, Rockville, MD",
+    "Cuisine": "Peruvian"
+  },
+  {
+    "Restaurant": "Lapis",
+    "Address": "1847 Columbia Rd., NW, Washington, DC",
+    "Cuisine": "Afghan"
+  },
+  {
+    "Restaurant": "L’Auberge Chez François/Jacques’ Brasserie",
+    "Address": "332 Springvale Rd., Great Falls, VA",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Le Diplomate",
+    "Address": "1601 14th St., NW, Washington, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Little Serow",
+    "Address": "1511 17th St., NW, Washington, DC",
+    "Cuisine": "Thai"
+  },
+  {
+    "Restaurant": "Maketto",
+    "Address": "1351 H St., NE, Washington, DC",
+    "Cuisine": "Cambodian/Taiwanese"
+  },
+  {
+    "Restaurant": "Marcel’s",
+    "Address": "2401 Pennsylvania Ave., NW, Washington, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Masseria",
+    "Address": "1340 Fourth St., NE, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Métier",
+    "Address": "1015 Seventh St., NW, Washington, DC",
+    "Cuisine": "French"
+  },
+  {
+    "Restaurant": "Minibar",
+    "Address": "855 E St., NW, Washington, DC",
+    "Cuisine": "Modern American"
+  },
+  {
+    "Restaurant": "Mintwood Place",
+    "Address": "1813 Columbia Rd., NW, Washington, DC",
+    "Cuisine": "American/French"
+  },
+  {
+    "Restaurant": "Mokomandy",
+    "Address": "20789 Great Falls Plaza, Sterling, VA",
+    "Cuisine": "Cajun/Korean"
+  },
+  {
+    "Restaurant": "Nostos",
+    "Address": "8100 Boone Blvd., Vienna, VA",
+    "Cuisine": "Greek"
+  },
+  {
+    "Restaurant": "Obelisk",
+    "Address": "2029 P St., NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Osteria Morini",
+    "Address": "301 Water St., SE, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "The Partisan",
+    "Address": "709 D St., NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Passage to India",
+    "Address": "4931 Cordell Ave., Bethesda, MD",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Pineapple and Pearls",
+    "Address": "715 Eighth St., SE, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Plume",
+    "Address": "The Jefferson hotel, 1200 16th St. NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Preserve",
+    "Address": "164 Main St., Annapolis, MD",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Proof",
+    "Address": "775 G St., NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Rappahannock Oyster Bar",
+    "Address": "Union Market, 1309 Fifth St. NE, Washington, DC",
+    "Cuisine": "American/seafood"
+  },
+  {
+    "Restaurant": "Rasika-2",
+    "Address": "633 D ST NW Washington, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "Rasika",
+    "Address": "1190 New Hampshire Ave, NW, Washington, DC",
+    "Cuisine": "Indian"
+  },
+  {
+    "Restaurant": "The Red Hen",
+    "Address": "1822 First St., NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Republic",
+    "Address": "6939 Laurel Ave., Takoma Park, MD",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Restaurant Eve",
+    "Address": "110 S. Pitt St., Alexandria, VA",
+    "Cuisine": "American/Filipino"
+  },
+  {
+    "Restaurant": "The Restaurant at Patowmack Farm",
+    "Address": "42461 Lovettsville Rd., Lovettsville, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "The Riggsby",
+    "Address": "1731 New Hampshire Ave., NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Rose’s Luxury",
+    "Address": "717 Eighth St., SE, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "RPM Italian",
+    "Address": "650 K St., NW, Washington, DC",
+    "Cuisine": "Italian"
+  },
+  {
+    "Restaurant": "Sally’s Middle Name",
+    "Address": "1320 H St., NE, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Ser",
+    "Address": "1110 N. Glebe Rd., Arlington, VA",
+    "Cuisine": "Spanish"
+  },
+  {
+    "Restaurant": 1789,
+    "Address": "1226 36th St., NW, Washington, DC",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "The Source",
+    "Address": "575 Pennsylvania Ave., NW, Washington, DC",
+    "Cuisine": "Chinese"
+  },
+  {
+    "Restaurant": "Sushiko",
+    "Address": "5455 Wisconsin Ave., Chevy Chase, MD",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Sushi Ogawa",
+    "Address": "2100 Connecticut Ave., NW, Washington, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Sushi Sono",
+    "Address": "10215 Wincopin Cir., Columbia, MD",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Sushi Taro",
+    "Address": "1503 17th St., NW, Washington, DC",
+    "Cuisine": "Japanese"
+  },
+  {
+    "Restaurant": "Tail Up Goat",
+    "Address": "1827 Adams Mill Rd., NW, Washington, DC",
+    "Cuisine": "Mediterranean"
+  },
+  {
+    "Restaurant": "Timber Pizza Co.",
+    "Address": "809 Upshur St., NW, Washington, DC",
+    "Cuisine": "Italian/pizza"
+  },
+  {
+    "Restaurant": "2 Amys",
+    "Address": "3715 Macomb St., NW, Washington, DC",
+    "Cuisine": "Italian/pizza"
+  },
+  {
+    "Restaurant": "Vermilion",
+    "Address": "1120 King St., Alexandria, VA",
+    "Cuisine": "American"
+  },
+  {
+    "Restaurant": "Vin 909 Winecafé",
+    "Address": "909 Bay Ridge Ave., Annapolis, MD",
+    "Cuisine": "American/pizza"
+  },
+  {
+    "Restaurant": "Whaley’s",
+    "Address": "301 Water St., SE, Washington, DC",
+    "Cuisine": "American/seafood"
+  },
+  {
+    "Restaurant": "Zaytinya",
+    "Address": "701 Ninth St., NW, Washington, DC",
+    "Cuisine": "Greek/Lebanese/Turkish"
+  }
+]
